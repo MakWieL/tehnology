@@ -1,0 +1,15 @@
+.header {
+    display: block;
+    background: #00b0d8 url(images/header-gradient.png) repeat-x; 
+   }
+   
+.header-bg {
+    background: url(images/header-animal.png) repeat-x center bottom; 
+    height: 405px;
+    text-align: center;
+   }
+
+.header-bg img {
+    position: relative;
+    top: 40px;
+   }
